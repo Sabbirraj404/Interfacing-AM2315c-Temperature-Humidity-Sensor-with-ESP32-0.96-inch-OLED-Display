@@ -1,1 +1,1 @@
-# Interfacing-AM2315c-Temperature-Humidity-Sensor-with-ESP32-0.96-inch-OLED-Display
+# Interfacing-AM2315c-Temperature-Humidity-Sensor-with-ESP32-0.96-inch-OLED-Display & thingspeak
